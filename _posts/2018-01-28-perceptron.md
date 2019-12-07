@@ -1,10 +1,10 @@
 ---
-title: "Data Wrangling Project"
-date: 2018-01-28
+title: "Movie_Recommendation_using_Scala"
+date: 2019-10-27
 tags: [data wrangling, data science, messy data]
 header:
-  image: "/images/perceptron/percept.jpg"
-excerpt: "Data Wrangling, Data Science, Messy Data"
+  image: "/images/file.jpg"
+excerpt: "Movie Recommendation, Spark, Scala, Machine Learning"
 mathjax: "true"
 ---
 
