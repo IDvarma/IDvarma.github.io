@@ -9,6 +9,6 @@ mathjax: "true"
 ---
 #### [Code](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/8388132873207545/873644296293014/2617543751557080/latest.html)
 
-![Test Image 1](https://github.com/IDvarma/IDvarma.github.io/blob/master/images/Movie_Recommendation/1.png)
-![Test Image 2](https://github.com/IDvarma/IDvarma.github.io/blob/master/images/Movie_Recommendation/2.png "Logo Title Text 1")
+![GitHub Logo](/images/Movie_Recommendation/1.png)
+![GitHub Logo](/images/Movie_Recommendation/2.png)
 
