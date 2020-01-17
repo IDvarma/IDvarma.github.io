@@ -21,3 +21,5 @@ mathjax: "true"
 ![GitHub Logo](/images/Movie_Recommendation/10.PNG)
 ![GitHub Logo](/images/Movie_Recommendation/12.PNG)
 ![GitHub Logo](/images/Movie_Recommendation/13.PNG)
+
+To access the code click on the hyperlink at the begining. Thanks for your reading. Please let me know in case of any queries.
