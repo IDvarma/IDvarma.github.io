@@ -1,8 +1,8 @@
 ---
-title: "Movie_Recommendation_using_Scala"
 date: 2019-11-27
 tags: [movie recommendation data science, scala, collabrative filtering]
 header:
+  title: "Movie_Recommendation_using_Scala"
   image: "/images/file.jpg"
 excerpt: "Movie Recommendation, Spark, Scala, Machine Learning"
 mathjax: "true"
