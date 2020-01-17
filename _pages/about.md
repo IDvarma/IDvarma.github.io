@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/zakim.jpg"
+  image: "/images/XbYnCuVzbcHPHuYzCGuSmf.jpg"
 ---
 Proficient Data Scientist with hands-on and valuable experience in data science, machine learning, business intelligence, data analysis. Please feel free to connect.
 ○	Deliver exceptional knowledge and proficiencies in database solutions
