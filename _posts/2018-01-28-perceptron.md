@@ -1,63 +1,12 @@
 ---
 title: "Movie_Recommendation_using_Scala"
-date: 2019-10-27
-tags: [data wrangling, data science, messy data]
+date: 2019-11-27
+tags: [movie recommendation data science, scala, collabrative filtering]
 header:
   image: "/images/file.jpg"
 excerpt: "Movie Recommendation, Spark, Scala, Machine Learning"
 mathjax: "true"
 ---
+### [Code](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/8388132873207545/873644296293014/2617543751557080/latest.html)
 
-# H1 Heading
-
-## H2 Heading
-
-### H3 Heading
-
-Here's some basic text.
-
-And here's some *italics*
-
-Here's some **bold** text.
-
-What about a [link](https://github.com/dataoptimal)?
-
-Here's a bulleted list:
-* First item
-+ Second item
-- Third item
-
-Here's a numbered list:
-1. First
-2. Second
-3. Third
-
-Python code block:
-```python
-    import numpy as np
-
-    def test_function(x, y):
-      z = np.sum(x,y)
-      return z
-```
-
-R code block:
-```r
-library(tidyverse)
-df <- read_csv("some_file.csv")
-head(df)
-```
-
-Here's some inline code `x+y`.
-
-Here's an image:
-<img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg" alt="linearly separable data">
-
-Here's another image using Kramdown:
-![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg)
-
-Here's some math:
-
-$$z=x+y$$
-
-You can also put it inline $$z=x+y$$
+[embed]https://github.com/IDvarma/Movie_Recommendation_using_Scala/blob/master/Movie_Recommendation.pdf[/embed]
